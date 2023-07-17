@@ -39,7 +39,7 @@ To run:
 npm run dev
 ```
 
-That's it. Simple open that UI app in your browser and you can play. The app makes calls to Quarkus backend 
+That's it. Try to open that UI app in your browser. The app makes calls to Quarkus backend 
 and there's even DB running as dev service.
 
 ![UI Demo](./tic-tac-toe-demo.gif)
